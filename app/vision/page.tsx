@@ -13,7 +13,7 @@ export default function vision() {
  <main>
 
       {/* HERO */}
-      <section className="h-[300px] bg-cover bg-center flex items-center justify-center"
+      <section className="h-75 bg-cover bg-center flex items-center justify-center"
         style={{ backgroundImage: "url('/image/mountain.jpg')" }}
       >
         <h1 className="text-white text-4xl font-bold bg-black/50 px-6 py-2 rounded">
